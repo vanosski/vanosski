@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vanssh Parikh</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🔭 I’m currently working on [Troop Formation Calculator](https://github.com/vanosski/TroopFormation/tree/master)
+- 🔭 I’m currently working on [News By History](https://github.com/vanosski/NewsByHistoryExtension)
 
 - 🌱 I’m currently learning **Nextjs GraphQL**
 
