@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vanssh Parikh</h1>
-<h3 align="center">I like two things : Data and Code</h3>
+<h3 align="center">I like two things :  Analysing Data and  Making Products for fun!</h3>
 
-- 🔭 I’m currently working on [News By History](https://github.com/vanosski/NewsByHistoryExtension)
-
-- 👯 I’m looking to collaborate on [Sleep Analyzer](https://github.com/vanosski/sleepAnalyzer)
 
 - 💬 Ask me about **Data Analysis and Data Engineering**
 
