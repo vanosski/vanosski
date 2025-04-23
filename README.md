@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vanssh Parikh</h1>
-<h3 align="center">A passionate Full Stack Developer skilled in React, Node.js, and a range of modern web technologies. I specialize in building dynamic, data-driven applications and have experience with front-end frameworks, back-end APIs, and database management. Always eager to learn and collaborate, I’m currently diving into Next.js and GraphQL to expand my full-stack expertise.</h3>
+<h3 align="center">I like two things : Data and Code</h3>
 
 - 🔭 I’m currently working on [News By History](https://github.com/vanosski/NewsByHistoryExtension)
 
 - 👯 I’m looking to collaborate on [Sleep Analyzer](https://github.com/vanosski/sleepAnalyzer)
 
-- 💬 Ask me about **Reactjs Nodejs**
+- 💬 Ask me about **Data Analysis and Data Engineering**
 
 - 📫 How to reach me **parikharyan30@gmail.com**
 
